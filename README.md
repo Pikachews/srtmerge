@@ -1,3 +1,5 @@
-# srtmerge.github.io
+# srtmerge
 
-[Sample srt files](https://srtmerge.github.io/sample.zip)
+Based on [srtmerge.github.io](https://github.com/srtmerge/srtmerge.github.io)
+
+Adds support for merging multiple subtitles across multiple episodes.
